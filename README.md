@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Ma Crizza Lynne Regacho!
 👩‍💻 Software developer sharing about my journey and learnings in tech<br>👩🏽‍🎓 Studying at Red River College<br>📚 Now on 2nd Year 1st Term in Business Information Technology Program<br>🎓 Set to graduate on 2026<br>🔭 Currently working on creating a personal website<br>⚡ Fun fact: I am also passionate about Interior Design and have also graduated in this field.
 
 # 💻 Tech Stack:
